@@ -14,13 +14,13 @@
  <p>Open the terminal and run the following command:</p>
 
   ```
-git clone https://github.com/<your_user_name>/repo_name.git
+git clone https://github.com/<your_user_name>/fastai.git
 ```
 
 <h2>  3. Create a new branch with:</h2>
 
   ```
-git checkout -b <your_branch_name>
+git checkout -b main
 ```
 
 <h2>  4. Make the changes. </h2>
@@ -30,7 +30,7 @@ git checkout -b <your_branch_name>
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin main
 ```
 
 replacing <add-your-branch-name> with the name of the branch you created earlier.
