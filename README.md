@@ -1,1 +1,1 @@
-# fastai
+# FastAI - Hacktoberfest Edition
